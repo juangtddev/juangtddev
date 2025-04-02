@@ -39,7 +39,8 @@ I'm a career-transition developer, moving from public sector roles (managing fin
 
 ## 📈 **GitHub Stats**  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juangtddev&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangtddev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="juangtddev's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=juangtddev&theme=dark&hide_border=true" alt="juangtddev's GitHub Stats" />
 </p>
 
 ---
