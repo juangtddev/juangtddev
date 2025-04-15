@@ -53,7 +53,7 @@ I'm a career-transition developer, moving from public sector roles (managing fin
 ## 📈 **GitHub Stats**  
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangtddev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="juangtddev's GitHub Stats" />
-  <img height="150px" src="https://streak-stats.demolab.com?user=juangtddev&theme=dark&hide_border=true" alt="juangtddev's GitHub Stats" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=false">    <img  height="150px" alt="juangtddev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/juangtddev?cardType=octocat&theme=github-dark&preferLogin=false" />  </a>
 </p>
 
 ---
