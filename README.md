@@ -44,8 +44,8 @@ I'm a career-transition developer, moving from public sector roles (managing fin
 ---
 
 ## 📚 **Currently Learning**  
-- **TypeScript**: Migrating JavaScript projects to static typing.  
-- **Automated Testing**: Jest + React Testing Library.  
+- **Project Euler**: ’m working through Project Euler’s problems to sharpen my programming logic.
+- **Portfolio development**: I’m building my portfolio to showcase my projects.
 <!-- - **Cloud Basics**: AWS & Docker (early stages!).  -->
 
 ---
