@@ -44,7 +44,7 @@ I'm a career-transition developer, moving from public sector roles (managing fin
 ---
 
 ## 📚 **Currently Learning**  
-- **Project Euler**: ’m working through Project Euler’s problems to sharpen my programming logic.
+- **Project Euler**: I’m working through Project Euler’s problems to sharpen my programming logic.
 - **Portfolio development**: I’m building my portfolio to showcase my projects.
 <!-- - **Cloud Basics**: AWS & Docker (early stages!).  -->
 
