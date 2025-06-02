@@ -40,6 +40,8 @@ I'm a career-transition developer, moving from public sector roles (managing fin
 <!--| **[Modular ERP](https://github.com/juangtddev/erp-modular)** | Management system for SMEs (Sales, Inventory, Accounting) | React, Node.js, MySQL |
 | **[Industrial Monitoring](https://github.com/juangtddev/pi-monitoring)** | Real-time dashboard for hydroelectric plant data | PI System, Asset Framework |
 | **[Portfolio Site](https://github.com/juangtddev/portfolio)** | Responsive portfolio with projects & skills | HTML5, Sass, React | -->
+| **[Portfolio Site](https://github.com/juangtddev/portfolio-juan-3d)** | Responsive portfolio 3D with projects & skills | HTML5, TaiwlindCSS, React | 
+
 
 ---
 
